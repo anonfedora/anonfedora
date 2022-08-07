@@ -3,7 +3,9 @@
 
 <--**anonfedora/anonfedora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-###✨ About me
+
+
+### ✨ About me
 I'm Musa Eleazar Shekoaga, a Full Stack Developer (specialized in MERN stack)
 I'm also pursuing my Computer Science Degree at Kaduna State University.
 
@@ -18,6 +20,6 @@ I'm also pursuing my Computer Science Degree at Kaduna State University.
 - ⚡ Fun fact: The quieter you are, the more you are able to listen.
 
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
-###💬 My Profile
+### 💬 My Profile
