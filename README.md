@@ -19,10 +19,11 @@ I'm also pursuing my Computer Science Degree at Kaduna State University.
 - ⚡ Fun fact: The quieter you are, the more you are able to listen.
 
 
-<a href="https://www.linkedin.com/in/eleazar-shekoaga-musa-09a70519a">LinkedIn</a>
+<a target="_blank" href="https://www.linkedin.com/in/eleazar-shekoaga-musa-09a70519a">LinkedIn</a>
 <br>
-<a href="https://mobile.twitter.com/MusaEleazar1">Twitter</a>
-   <a href="https://super-basbousa-130d7c.netlify.app/
+<a target=_blank" href="https://mobile.twitter.com/MusaEleazar1">Twitter</a>
+<br>
+   <a target="_blank" href="https://super-basbousa-130d7c.netlify.app/
 ">Portfolio</a>
  <a target="_blank" href="https://github.com/anonfedora">
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
