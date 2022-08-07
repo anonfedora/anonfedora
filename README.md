@@ -26,7 +26,8 @@ I'm also pursuing my Computer Science Degree at Kaduna State University.
 <br>
    <a target="_blank" href="https://super-basbousa-130d7c.netlify.app/
 ">![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a> <br>
- <a target="_blank" href="https://github.com/anonfedora">
+
+<a target="_blank" href="https://github.com/anonfedora">
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 </a>
 - 😄 Pronouns: Dev
