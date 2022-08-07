@@ -15,8 +15,6 @@ I'm also pursuing my Computer Science Degree at Kaduna State University.
 - 🤔 I’m looking for help with nothing yet 🙂, maybe finding a job.
 - 💬 Ask me about Web Development, Python, Object Oriented Programming etcetera.
 - 📫 How to reach me: 
-- 😄 Pronouns: Dev
-- ⚡ Fun fact: The quieter you are, the more you are able to listen.
 
 
 <a target="_blank" href="https://www.linkedin.com/in/eleazar-shekoaga-musa-09a70519a">LinkedIn</a>
@@ -24,10 +22,14 @@ I'm also pursuing my Computer Science Degree at Kaduna State University.
 <a target="_blank" href="https://mobile.twitter.com/MusaEleazar1">Twitter</a>
 <br>
    <a target="_blank" href="https://super-basbousa-130d7c.netlify.app/
-">Portfolio</a>
+">Portfolio</a> <br>
  <a target="_blank" href="https://github.com/anonfedora">
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 </a>
+- 😄 Pronouns: Dev
+
+- ⚡ Fun fact: The quieter you are, the more you are able to listen.
+
 
 ### 💬 My Profile
 ...end, but just the beginning...
