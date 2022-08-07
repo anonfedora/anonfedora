@@ -21,7 +21,7 @@ I'm also pursuing my Computer Science Degree at Kaduna State University.
 
 <a target="_blank" href="https://www.linkedin.com/in/eleazar-shekoaga-musa-09a70519a">LinkedIn</a>
 <br>
-<a target=_blank" href="https://mobile.twitter.com/MusaEleazar1">Twitter</a>
+<a target="_blank" href="https://mobile.twitter.com/MusaEleazar1">Twitter</a>
 <br>
    <a target="_blank" href="https://super-basbousa-130d7c.netlify.app/
 ">Portfolio</a>
