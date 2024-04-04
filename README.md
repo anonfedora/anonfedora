@@ -12,7 +12,7 @@ I'm Musa Eleazar Shekoaga, a Full Stack Developer (specialized in MERN stack)
 
 I'm also pursuing my Computer Science Degree at Kaduna State University.
 
-- 🔭 I’m currently working on a MERN stack shop Web application...
+- 🔭 I’m currently working on a MERN stack Web applications...
 
 - 🌱 I’m currently learning Advanced React and Nodejs
 
