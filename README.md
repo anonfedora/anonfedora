@@ -14,13 +14,13 @@ I'm also pursuing my Computer Science Degree at Kaduna State University.
 
 - 🔭 I’m currently working on a MERN stack Web applications...
 
-- 🌱 I’m currently learning Advanced React and Nodejs
+- 🌱 I’m currently building Advanced Backend (Nestjs, Expressjs) projects 
 
 - 👯 I’m looking to collaborate on projects.
 
 - 🤔 I’m looking for help with nothing yet 🙂, maybe finding a job.
 
-- 💬 Ask me about Web Development, Python, Object Oriented Programming etcetera.
+- 💬 Ask me about Web Development, Backend Development, Python, Object Oriented Programming etcetera.
 
 - 📫 How to reach me: 
 
