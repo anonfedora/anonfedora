@@ -8,17 +8,15 @@ Welcome to my profile 🙂🙂🙂...
 
 ### ✨ About me
 
-I'm Musa Eleazar Shekoaga, a Full Stack Developer (specialized in MERN stack)
+I'm Eleazar Musa, a Backend Engineer (Nodejs, Expressjs, Nestjs)
 
-I'm also pursuing my Computer Science Degree at Kaduna State University.
+I'm a graduate of Computer Science, Kaduna State University.
 
-- 🔭 I’m currently working on a MERN stack Web applications...
+- 🔭 I’m currently a freelance, Engineering APIs...
 
-- 🌱 I’m currently building Advanced Backend (Nestjs, Expressjs) projects 
+- 🌱 I’m currently building Advanced Backend (Nestjs) projects 
 
 - 👯 I’m looking to collaborate on projects.
-
-- 🤔 I’m looking for help with nothing yet 🙂, maybe finding a job.
 
 - 💬 Ask me about Web Development, Backend Development, Python, Object Oriented Programming etcetera.
 
