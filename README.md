@@ -12,7 +12,9 @@ I'm Eleazar Musa, a Backend Engineer (Nodejs, Expressjs, Nestjs)
 
 I'm a graduate of Computer Science, Kaduna State University.
 
-- 🔭 I’m currently a freelance, Engineering APIs...
+- 🔭 I’m currently a freelancer, Engineering APIs...
+
+- Open Source Contributor @ <a target="_blank" href="https://app.onlydust.com/u/anonfedora">OnlyDust</a>
 
 - 🌱 I’m currently building Advanced Backend (Nestjs) projects 
 
