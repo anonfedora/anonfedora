@@ -8,7 +8,7 @@ Welcome to my profile 🙂🙂🙂...
 
 ### ✨ About me
 
-I'm Eleazar Musa, a Backend Engineer (Nodejs, Expressjs, Nestjs)
+I'm Eleazar, a Backend/Blockchain Engineer (Nodejs, Expressjs, Nestjs, cairo, Reactjs)
 
 I'm a graduate of Computer Science, Kaduna State University.
 
